@@ -11,7 +11,7 @@ El Volkswagen ID3 se trata del primer hatchback de la nueva familia de coches el
 Sin embargo, el Volkswagen ID3 no es un mero capricho de la compa?ia, si no que abre el camino hacia una nueva era electrica, con la que se espera limpiar el nombre de la marca, tras los multiples escandalos en sus motores de gasolina y diesel.
 </p>
 <p>
-<img src="https://img.motor16.com/26000/26779/26779_volkswagen-id3-fotos-al-volante-dinamicas_1_3.jpg" alt=“VolkswagenID3” style="width:800px;height:600px;">
+<img src="https://img.motor16.com/26000/26779/26779_volkswagen-id3-fotos-al-volante-dinamicas_1_3.jpg" alt=â€œVolkswagenID3â€ style="width:800px;height:600px;">
 </p>
 <h3>Caracteristicas</h3>
 <p>
@@ -21,8 +21,8 @@ Comenzando por su tama?o, tiene unas dimensiones similares a las del ic?nico Vol
 Los botones anal?gicos se sustituyen por un display completamente digital, otorgandole un aire m?s modernista
 </p>
 <p>
-<img src="https://img.motor16.com/26000/26781/26781_volkswagen-id3-fotos-al-volante-interiores_1_3.jpg" alt=“Asientos traseros” style="width:400px;height:300px;">
-<img src="https://img.motor16.com/26000/26781/26781_volkswagen-id3-fotos-al-volante-interiores_1_1.jpg" alt=“Dashboard” style="width:400px;height:300px;">
+<img src="https://img.motor16.com/26000/26781/26781_volkswagen-id3-fotos-al-volante-interiores_1_3.jpg" alt=â€œAsientos traserosâ€ style="width:400px;height:300px;">
+<img src="https://img.motor16.com/26000/26781/26781_volkswagen-id3-fotos-al-volante-interiores_1_1.jpg" alt=â€œDashboardâ€ style="width:400px;height:300px;">
 </p> 
 <h3>Tabla comparativa</h3>
 <table border="1">
@@ -79,10 +79,10 @@ Deje sus opiniones o preguntas en la caja de comentarios:
     <form action ="/form/button" method = "post">
 	    <fieldset>
 	    	<legend>Comentarios</legend>
-		    <p>Nombre: <input type=“text” name=“nombre” size=“25”></p>
-		    <p>Email:  <input type=“text” name =“email ” size=25”></p>
-		    <p><textarea name=“comentarios” style="width:400px; height:100px;"></textarea></p>
-		    <p><button type=“button” value=“Enviar”>Enviar</button><p>
+		    <p>Nombre: <input type=â€œtextâ€ name=â€œnombreâ€ size=â€œ25â€></p>
+		    <p>Email:  <input type=â€œtextâ€ name =â€œemail â€ size=25â€></p>
+		    <p><textarea name=â€œcomentariosâ€ style="width:400px; height:100px;"></textarea></p>
+		    <p><button type=â€œbuttonâ€ value=â€œEnviarâ€>Enviar</button><p>
 		    </legend>
 	    </fieldset>
 	</form>
